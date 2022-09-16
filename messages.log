@@ -1,0 +1,162 @@
+[Info]-[Main] 2022/09/16 10:38:00.548351 Iniciando o cron de monitoramento
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:38:00.972807 Já existe um evento com EventId: 14d56062-a74c-4aac-9d1f-00f4271a1eeb
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:38:00.974871 Já existe um evento com EventId: a4d58145-a993-4611-aaf1-66dc47358eba
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:38:00.976979 Já existe um evento com EventId: ca9b028c-28c7-49cd-9724-3157e4a696b5
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:38:00.979012 Já existe um evento com EventId: 767aace4-f203-49ba-abbe-f5a44d472b5d
+[Info]-[InsertJobs] 2022/09/16 10:38:00.979080 Total de registros inseridos: 0
+[Info]-[GetJobsToVerify] 2022/09/16 10:38:00.979109 Resgatando resgistros com Verificar Detalhe
+[Info]-[GetJobsToVerify] 2022/09/16 10:38:00.981710 Resgistros para verificar: 9
+[Info]-[Main] 2022/09/16 10:39:11.559059 Iniciando o cron de monitoramento
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:39:11.945958 Já existe um evento com EventId: 14d56062-a74c-4aac-9d1f-00f4271a1eeb
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:39:11.948736 Já existe um evento com EventId: a4d58145-a993-4611-aaf1-66dc47358eba
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:39:11.950777 Já existe um evento com EventId: ca9b028c-28c7-49cd-9724-3157e4a696b5
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:39:11.952672 Já existe um evento com EventId: 767aace4-f203-49ba-abbe-f5a44d472b5d
+[Info]-[InsertJobs] 2022/09/16 10:39:11.952746 Total de registros inseridos: 0
+[Info]-[GetJobsToVerify] 2022/09/16 10:39:11.952792 Resgatando resgistros com Verificar Detalhe
+[Info]-[GetJobsToVerify] 2022/09/16 10:39:11.956619 Resgistros para verificar: 9
+[Info]-[Main] 2022/09/16 10:40:00.102547 Iniciando o cron de monitoramento
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:40:00.518237 Já existe um evento com EventId: 14d56062-a74c-4aac-9d1f-00f4271a1eeb
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:40:00.520828 Já existe um evento com EventId: a4d58145-a993-4611-aaf1-66dc47358eba
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:40:00.523001 Já existe um evento com EventId: ca9b028c-28c7-49cd-9724-3157e4a696b5
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:40:00.525187 Já existe um evento com EventId: 767aace4-f203-49ba-abbe-f5a44d472b5d
+[Info]-[InsertJobs] 2022/09/16 10:40:00.525275 Total de registros inseridos: 0
+[Info]-[GetJobsToVerify] 2022/09/16 10:40:00.525314 Resgatando resgistros com Verificar Detalhe
+[Info]-[GetJobsToVerify] 2022/09/16 10:40:00.529041 Resgistros para verificar: 9
+[Info]-[Main] 2022/09/16 10:41:27.129817 Iniciando o cron de monitoramento
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:41:27.682626 Já existe um evento com EventId: 14d56062-a74c-4aac-9d1f-00f4271a1eeb
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:41:27.684968 Já existe um evento com EventId: a4d58145-a993-4611-aaf1-66dc47358eba
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:41:27.686762 Já existe um evento com EventId: ca9b028c-28c7-49cd-9724-3157e4a696b5
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:41:27.689148 Já existe um evento com EventId: 767aace4-f203-49ba-abbe-f5a44d472b5d
+[Info]-[InsertJobs] 2022/09/16 10:41:27.689252 Total de registros inseridos: 0
+[Info]-[GetJobsToVerify] 2022/09/16 10:41:27.689310 Resgatando resgistros com Verificar Detalhe
+[Info]-[GetJobsToVerify] 2022/09/16 10:41:27.692903 Resgistros para verificar: 9
+[Info]-[Main] 2022/09/16 10:42:11.815311 Iniciando o cron de monitoramento
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:42:12.281688 Já existe um evento com EventId: 14d56062-a74c-4aac-9d1f-00f4271a1eeb
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:42:12.283422 Já existe um evento com EventId: a4d58145-a993-4611-aaf1-66dc47358eba
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:42:12.285162 Já existe um evento com EventId: ca9b028c-28c7-49cd-9724-3157e4a696b5
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:42:12.286833 Já existe um evento com EventId: 767aace4-f203-49ba-abbe-f5a44d472b5d
+[Info]-[InsertJobs] 2022/09/16 10:42:12.286919 Total de registros inseridos: 0
+[Info]-[GetJobsToVerify] 2022/09/16 10:42:12.286961 Resgatando resgistros com Verificar Detalhe
+[Info]-[GetJobsToVerify] 2022/09/16 10:42:12.289353 Resgistros para verificar: 9
+[Info]-[Main] 2022/09/16 10:43:12.459730 Iniciando o cron de monitoramento
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:43:12.817599 Já existe um evento com EventId: 14d56062-a74c-4aac-9d1f-00f4271a1eeb
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:43:12.819314 Já existe um evento com EventId: a4d58145-a993-4611-aaf1-66dc47358eba
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:43:12.821064 Já existe um evento com EventId: ca9b028c-28c7-49cd-9724-3157e4a696b5
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:43:12.822782 Já existe um evento com EventId: 767aace4-f203-49ba-abbe-f5a44d472b5d
+[Info]-[InsertJobs] 2022/09/16 10:43:12.822837 Total de registros inseridos: 0
+[Info]-[GetJobsToVerify] 2022/09/16 10:43:12.822862 Resgatando resgistros com Verificar Detalhe
+[Info]-[GetJobsToVerify] 2022/09/16 10:43:12.825180 Resgistros para verificar: 9
+[Info]-[Main] 2022/09/16 10:49:20.414454 Iniciando o cron de monitoramento
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:49:20.816599 Já existe um evento com EventId: 14d56062-a74c-4aac-9d1f-00f4271a1eeb
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:49:20.818915 Já existe um evento com EventId: a4d58145-a993-4611-aaf1-66dc47358eba
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:49:20.820987 Já existe um evento com EventId: ca9b028c-28c7-49cd-9724-3157e4a696b5
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:49:20.823091 Já existe um evento com EventId: 767aace4-f203-49ba-abbe-f5a44d472b5d
+[Info]-[InsertJobs] 2022/09/16 10:49:20.823157 Total de registros inseridos: 0
+[Info]-[GetJobsToVerify] 2022/09/16 10:49:20.823186 Resgatando resgistros com Verificar Detalhe
+[Info]-[GetJobsToVerify] 2022/09/16 10:49:20.826063 Resgistros para verificar: 9
+[Info]-[Main] 2022/09/16 10:50:29.386092 Iniciando o cron de monitoramento
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:50:29.908595 Já existe um evento com EventId: 14d56062-a74c-4aac-9d1f-00f4271a1eeb
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:50:29.910852 Já existe um evento com EventId: a4d58145-a993-4611-aaf1-66dc47358eba
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:50:29.913220 Já existe um evento com EventId: ca9b028c-28c7-49cd-9724-3157e4a696b5
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:50:29.914902 Já existe um evento com EventId: 767aace4-f203-49ba-abbe-f5a44d472b5d
+[Info]-[InsertJobs] 2022/09/16 10:50:29.914965 Total de registros inseridos: 0
+[Info]-[GetJobsToVerify] 2022/09/16 10:50:29.915006 Resgatando resgistros com Verificar Detalhe
+[Info]-[GetJobsToVerify] 2022/09/16 10:50:29.917541 Resgistros para verificar: 9
+[Info]-[Main] 2022/09/16 10:55:07.746688 Iniciando o cron de monitoramento
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:55:08.098907 Já existe um evento com EventId: 14d56062-a74c-4aac-9d1f-00f4271a1eeb
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:55:08.101574 Já existe um evento com EventId: a4d58145-a993-4611-aaf1-66dc47358eba
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:55:08.103433 Já existe um evento com EventId: ca9b028c-28c7-49cd-9724-3157e4a696b5
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:55:08.105282 Já existe um evento com EventId: 767aace4-f203-49ba-abbe-f5a44d472b5d
+[Info]-[InsertJobs] 2022/09/16 10:55:08.105355 Total de registros inseridos: 0
+[Info]-[GetJobsToVerify] 2022/09/16 10:55:08.105386 Resgatando resgistros com Verificar Detalhe
+[Info]-[GetJobsToVerify] 2022/09/16 10:55:08.108285 Resgistros para verificar: 9
+[Info]-[Main] 2022/09/16 10:57:03.348167 Iniciando o cron de monitoramento
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:57:03.792875 Já existe um evento com EventId: 14d56062-a74c-4aac-9d1f-00f4271a1eeb
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:57:03.795013 Já existe um evento com EventId: a4d58145-a993-4611-aaf1-66dc47358eba
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:57:03.797136 Já existe um evento com EventId: ca9b028c-28c7-49cd-9724-3157e4a696b5
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:57:03.799209 Já existe um evento com EventId: 767aace4-f203-49ba-abbe-f5a44d472b5d
+[Info]-[InsertJobs] 2022/09/16 10:57:03.799315 Total de registros inseridos: 0
+[Info]-[GetJobsToVerify] 2022/09/16 10:57:03.799347 Resgatando resgistros com Verificar Detalhe
+[Info]-[GetJobsToVerify] 2022/09/16 10:57:03.802145 Resgistros para verificar: 9
+[Info]-[Main] 2022/09/16 10:59:25.356520 Iniciando o cron de monitoramento
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:59:25.881130 Já existe um evento com EventId: 14d56062-a74c-4aac-9d1f-00f4271a1eeb
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:59:25.883679 Já existe um evento com EventId: a4d58145-a993-4611-aaf1-66dc47358eba
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:59:25.885690 Já existe um evento com EventId: ca9b028c-28c7-49cd-9724-3157e4a696b5
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 10:59:25.887543 Já existe um evento com EventId: 767aace4-f203-49ba-abbe-f5a44d472b5d
+[Info]-[InsertJobs] 2022/09/16 10:59:25.887610 Total de registros inseridos: 0
+[Info]-[GetJobsToVerify] 2022/09/16 10:59:25.887638 Resgatando resgistros com Verificar Detalhe
+[Info]-[GetJobsToVerify] 2022/09/16 10:59:25.890309 Resgistros para verificar: 9
+[Info]-[Main] 2022/09/16 11:09:59.597114 Iniciando o cron de monitoramento
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:09:59.965247 Já existe um evento com EventId: 14d56062-a74c-4aac-9d1f-00f4271a1eeb
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:09:59.966860 Já existe um evento com EventId: a4d58145-a993-4611-aaf1-66dc47358eba
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:09:59.968446 Já existe um evento com EventId: ca9b028c-28c7-49cd-9724-3157e4a696b5
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:09:59.969982 Já existe um evento com EventId: 767aace4-f203-49ba-abbe-f5a44d472b5d
+[Info]-[InsertJobs] 2022/09/16 11:09:59.970039 Total de registros inseridos: 0
+[Info]-[GetJobsToVerify] 2022/09/16 11:09:59.970064 Resgatando resgistros com Verificar Detalhe
+[Info]-[GetJobsToVerify] 2022/09/16 11:09:59.972374 Resgistros para verificar: 9
+[Info]-[Main] 2022/09/16 11:10:27.750251 Iniciando o cron de monitoramento
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:10:28.123125 Já existe um evento com EventId: 14d56062-a74c-4aac-9d1f-00f4271a1eeb
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:10:28.125118 Já existe um evento com EventId: a4d58145-a993-4611-aaf1-66dc47358eba
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:10:28.126981 Já existe um evento com EventId: ca9b028c-28c7-49cd-9724-3157e4a696b5
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:10:28.129048 Já existe um evento com EventId: 767aace4-f203-49ba-abbe-f5a44d472b5d
+[Info]-[InsertJobs] 2022/09/16 11:10:28.129120 Total de registros inseridos: 0
+[Info]-[GetJobsToVerify] 2022/09/16 11:10:28.129148 Resgatando resgistros com Verificar Detalhe
+[Info]-[GetJobsToVerify] 2022/09/16 11:10:28.132073 Resgistros para verificar: 9
+[Info]-[Main] 2022/09/16 11:11:19.043723 Iniciando o cron de monitoramento
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:11:19.640001 Já existe um evento com EventId: 14d56062-a74c-4aac-9d1f-00f4271a1eeb
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:11:19.641953 Já existe um evento com EventId: a4d58145-a993-4611-aaf1-66dc47358eba
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:11:19.643643 Já existe um evento com EventId: ca9b028c-28c7-49cd-9724-3157e4a696b5
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:11:19.645336 Já existe um evento com EventId: 767aace4-f203-49ba-abbe-f5a44d472b5d
+[Info]-[InsertJobs] 2022/09/16 11:11:19.645396 Total de registros inseridos: 0
+[Info]-[GetJobsToVerify] 2022/09/16 11:11:19.645420 Resgatando resgistros com Verificar Detalhe
+[Info]-[GetJobsToVerify] 2022/09/16 11:11:19.647800 Resgistros para verificar: 9
+[Info]-[Main] 2022/09/16 11:25:07.791746 Iniciando o cron de monitoramento
+[Error]-[RubrikAPI] 2022/09/16 11:25:07.814192 Get "https://bkp-pd-0002.tbsp1.local/api/v1/job_monitoring?limit=100&job_event_status=SuccessfulWithWarnings&job_type=Backup&object_type=OracleDatabase": EOF
+[Info]-[Main] 2022/09/16 11:25:59.778024 Iniciando o cron de monitoramento
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:26:01.161716 Já existe um evento com EventId: 14d56062-a74c-4aac-9d1f-00f4271a1eeb
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:26:01.163503 Já existe um evento com EventId: a4d58145-a993-4611-aaf1-66dc47358eba
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:26:01.165804 Já existe um evento com EventId: ca9b028c-28c7-49cd-9724-3157e4a696b5
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:26:01.167653 Já existe um evento com EventId: 767aace4-f203-49ba-abbe-f5a44d472b5d
+[Info]-[InsertJobs] 2022/09/16 11:26:01.167765 Total de registros inseridos: 0
+[Info]-[GetJobsToVerify] 2022/09/16 11:26:01.167813 Resgatando resgistros com Verificar Detalhe
+[Info]-[GetJobsToVerify] 2022/09/16 11:26:01.170383 Resgistros para verificar: 9
+[Info]-[Main] 2022/09/16 11:26:34.702890 Iniciando o cron de monitoramento
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:26:35.167424 Já existe um evento com EventId: 14d56062-a74c-4aac-9d1f-00f4271a1eeb
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:26:35.169407 Já existe um evento com EventId: a4d58145-a993-4611-aaf1-66dc47358eba
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:26:35.171401 Já existe um evento com EventId: ca9b028c-28c7-49cd-9724-3157e4a696b5
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:26:35.173435 Já existe um evento com EventId: 767aace4-f203-49ba-abbe-f5a44d472b5d
+[Info]-[InsertJobs] 2022/09/16 11:26:35.173532 Total de registros inseridos: 0
+[Info]-[GetJobsToVerify] 2022/09/16 11:26:35.173578 Resgatando resgistros com Verificar Detalhe
+[Info]-[GetJobsToVerify] 2022/09/16 11:26:35.176256 Resgistros para verificar: 9
+[Info]-[Main] 2022/09/16 11:26:46.855967 Iniciando o cron de monitoramento
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:26:47.221623 Já existe um evento com EventId: 14d56062-a74c-4aac-9d1f-00f4271a1eeb
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:26:47.223023 Já existe um evento com EventId: a4d58145-a993-4611-aaf1-66dc47358eba
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:26:47.224044 Já existe um evento com EventId: ca9b028c-28c7-49cd-9724-3157e4a696b5
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:26:47.225050 Já existe um evento com EventId: 767aace4-f203-49ba-abbe-f5a44d472b5d
+[Info]-[InsertJobs] 2022/09/16 11:26:47.225097 Total de registros inseridos: 0
+[Info]-[GetJobsToVerify] 2022/09/16 11:26:47.225122 Resgatando resgistros com Verificar Detalhe
+[Info]-[GetJobsToVerify] 2022/09/16 11:26:47.226605 Resgistros para verificar: 9
+[Info]-[Main] 2022/09/16 11:36:14.326590 Iniciando o cron de monitoramento
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:36:14.763753 Já existe um evento com EventId: 14d56062-a74c-4aac-9d1f-00f4271a1eeb
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:36:14.766130 Já existe um evento com EventId: a4d58145-a993-4611-aaf1-66dc47358eba
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:36:14.768347 Já existe um evento com EventId: ca9b028c-28c7-49cd-9724-3157e4a696b5
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:36:14.770402 Já existe um evento com EventId: 767aace4-f203-49ba-abbe-f5a44d472b5d
+[Info]-[InsertJobs] 2022/09/16 11:36:14.770466 Total de registros inseridos: 0
+[Info]-[GetJobsToVerify] 2022/09/16 11:36:14.770496 Resgatando resgistros com Verificar Detalhe
+[Info]-[GetJobsToVerify] 2022/09/16 11:36:14.773345 Resgistros para verificar: 9
+[Info]-[Main] 2022/09/16 11:49:48.600939 Iniciando o cron de monitoramento
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:49:48.988432 Já existe um evento com EventId: 14d56062-a74c-4aac-9d1f-00f4271a1eeb
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:49:48.990823 Já existe um evento com EventId: a4d58145-a993-4611-aaf1-66dc47358eba
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:49:48.992761 Já existe um evento com EventId: ca9b028c-28c7-49cd-9724-3157e4a696b5
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:49:48.994685 Já existe um evento com EventId: 767aace4-f203-49ba-abbe-f5a44d472b5d
+[Info]-[InsertJobs] 2022/09/16 11:49:48.994757 Total de registros inseridos: 0
+[Info]-[GetJobsToVerify] 2022/09/16 11:49:48.994786 Resgatando resgistros com Verificar Detalhe
+[Info]-[GetJobsToVerify] 2022/09/16 11:49:48.997567 Resgistros para verificar: 9
+[Info]-[Main] 2022/09/16 11:51:54.216524 Iniciando o cron de monitoramento
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:51:54.890726 Já existe um evento com EventId: 14d56062-a74c-4aac-9d1f-00f4271a1eeb
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:51:54.891593 Já existe um evento com EventId: a4d58145-a993-4611-aaf1-66dc47358eba
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:51:54.892458 Já existe um evento com EventId: ca9b028c-28c7-49cd-9724-3157e4a696b5
+[Info]-[CheckBeforeInsertJobs] 2022/09/16 11:51:54.893282 Já existe um evento com EventId: 767aace4-f203-49ba-abbe-f5a44d472b5d
+[Info]-[InsertJobs] 2022/09/16 11:51:54.893325 Total de registros inseridos: 0
+[Info]-[GetJobsToVerify] 2022/09/16 11:51:54.893342 Resgatando resgistros com Verificar Detalhe
+[Info]-[GetJobsToVerify] 2022/09/16 11:51:54.894584 Resgistros para verificar: 9

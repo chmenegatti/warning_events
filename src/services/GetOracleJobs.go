@@ -2,7 +2,7 @@ package services
 
 import (
 	"encoding/json"
-	"io/ioutil"
+	"io"
 	"log"
 
 	"github.com/oracle_with_warning/src/configs"
@@ -21,7 +21,7 @@ func GetOracleJobs() (result []models.Job, err error) {
 		log.Fatal(err.Error())
 	}
 
-	responseBody, err := ioutil.ReadAll(res.Body)
+	responseBody, err := io.ReadAll(res.Body)
 
 	if err != nil {
 		log.Fatal(err.Error())

@@ -5,6 +5,7 @@ import (
 )
 
 type WarningEvents struct {
+	Id                            int32     `json:"id"`
 	IdHolocron                    int32     `json:"id_holocron"`
 	IdTcloudWatch                 string    `json:"id_tcloud_watch"`
 	EventDetailData               string    `json:"event_detail_data" gorm:"serializer:json"`

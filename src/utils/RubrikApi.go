@@ -2,7 +2,6 @@ package utils
 
 import (
 	"crypto/tls"
-	"log"
 	"net/http"
 	"time"
 
@@ -29,7 +28,7 @@ func RubrikApi(url string) (r *http.Response, err error) {
 	req, err := http.NewRequest(http.MethodGet, url, nil)
 
 	if err != nil {
-		log.Fatal("Erro: ", err)
+		Logger("Error", "RubrikAPI", err.Error())
 	}
 
 	req.SetBasicAuth(user, pass)
@@ -39,7 +38,7 @@ func RubrikApi(url string) (r *http.Response, err error) {
 	res, err := d.Do(req)
 
 	if err != nil {
-		log.Fatal("Erro: ", err.Error())
+		Logger("Error", "RubrikAPI", err.Error())
 	}
 
 	return res, err
